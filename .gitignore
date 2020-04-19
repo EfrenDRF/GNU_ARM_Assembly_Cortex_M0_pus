@@ -1,0 +1,12 @@
+
+/.metadata/
+/RemoteSystemsTempFiles/
+
+#Ignore folder content in any project
+/**/.settings/
+/**/Debug/
+
+#Ignore projects files
+/**/.cproject
+/**/.project
+/**/*Debug.launch
